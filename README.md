@@ -1,12 +1,12 @@
-# 로또 시뮬레이션 프로젝트
+# Lottery Simulation Project
 
-이 프로젝트는 로또 번호를 생성하고 시뮬레이션 결과를 시각화하는 프로그램입니다.
+This project is a program for generating lottery numbers and visualizing simulation results.
 
-## 파일 설명
+## File Descriptions
 
-- `lottery.py`: 로또 번호를 생성하고 당첨 여부를 확인하는 함수들이 포함된 파일입니다. 이 파일은 직접 작성하였습니다.
-- `lottery_driver.py`: 로또 시뮬레이션 결과를 HTML 파일로 시각화하는 코드입니다. 이 파일은 Codeit의 자료를 참고하였습니다.
+- `lottery.py`: A file containing functions for generating lottery numbers and checking winning status. 
+- `lottery_driver.py`: A file that visualizes the lottery simulation results as an HTML file. 
 
-## 참고
+## Reference
 
-- `lottery_driver.py` 파일은 Codeit의 자료를 참고하여 작성되었습니다.
+- The `lottery_driver.py` file was created with reference to Codeit's materials.
