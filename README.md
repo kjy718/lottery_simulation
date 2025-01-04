@@ -1,2 +1,12 @@
-# mini_projects
-Mini projects for skill development
+# 로또 시뮬레이션 프로젝트
+
+이 프로젝트는 로또 번호를 생성하고 시뮬레이션 결과를 시각화하는 프로그램입니다.
+
+## 파일 설명
+
+- `lottery.py`: 로또 번호를 생성하고 당첨 여부를 확인하는 함수들이 포함된 파일입니다. 이 파일은 직접 작성하였습니다.
+- `lottery_driver.py`: 로또 시뮬레이션 결과를 HTML 파일로 시각화하는 코드입니다. 이 파일은 Codeit의 자료를 참고하였습니다.
+
+## 참고
+
+- `lottery_driver.py` 파일은 Codeit의 자료를 참고하여 작성되었습니다.
